@@ -1,6 +1,6 @@
 # Flask-RestX
 
-- Simple application to showcase Flask + Flask RestX + Swagger UI
+- Simple application to showcase Flask + Flask RestX (build in Swagger UI)
 
 ## Commands
 
