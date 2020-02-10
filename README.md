@@ -34,6 +34,10 @@
 	python moduler_api.py
 ```
 
+## Next Steps
+
+- Read [this](https://www.freecodecamp.org/news/structuring-a-flask-restplus-web-service-for-production-builds-c2ec676de563/) documentation on how to structure your project for productionalize your apps.
+
 ## Reference:
 
 - Flask RestX documentation - [Click Here](https://flask-restx.readthedocs.io/en/latest/index.html)
